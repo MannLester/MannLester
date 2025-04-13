@@ -9,9 +9,10 @@
 
 ## 🛠️ Skills & Tools
 
-| 💻 Languages | ⚙️ Frameworks | 🧰 Tools | 🎨 Design |
-|-------------|---------------|----------|-----------|
-| Python, JavaScript, C++ | Vue.js, Firebase, Node.js | Git, VS Code, Postman | Figma, Canva |
+| 💻 Languages | ⚙️ Frameworks | 🧰 Tools | 🎨 Design | 🗄️ Databases | 🎮 Game Engines | 📱 Mobile Dev |
+|-------------|---------------|----------|-----------|---------------|----------------|----------------|
+| Python, JavaScript, C-Based Languages, Java | Vue.js, React, Node.js, Flask, Java Swing | Git, VS Code, Windsurf/Cursor | Canva | Firebase, MongoDB | Unity, Godot | Android Studio, Flutter |
+
 
 ---
 
