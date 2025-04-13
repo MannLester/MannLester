@@ -59,5 +59,5 @@ Here are a few projects I'm proud of ✨:
   <img src="https://your-image-host.com/neon-divider.gif" width="50%" />
 </p>
 
-> 💬 *“Master of none? Maybe. But always ready to learn, adapt, and build.”*
+> 💬 *“Masters of none, But always Get it Done”*
 
