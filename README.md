@@ -30,7 +30,7 @@ Here are a few projects I'm proud of ✨:
 ## 🌐 Website & Contact
 
 - 🔗 **Portfolio**: [portfolio-website-vercel.com](https://portfolio-website-orcin-seven.vercel.app)
-- 📧 **Email**: [youremail@example.com](mailto:youremail@example.com)
+- 📧 **Email**: [mannlesterm@gmail.com](mailto:mannlesterm@gmail.com)
 - 💬 **Let's Connect**: [LinkedIn](https://linkedin.com/in/yourprofile) | [Instagram](https://instagram.com/yourprofile) | [Twitter](https://twitter.com/yourhandle)
 
 ---
