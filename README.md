@@ -21,7 +21,7 @@
 Here are a few projects I'm proud of ✨:
 
 - 🏠 **[StayEase](https://github.com/clarenzmauro/stayease)** – A dorm accommodation platform for students and dorm owners.
-<!--Expand more examples-->
+
 
 > 🔎 *Check out more projects in my pinned repos or [visit my portfolio](https://yourportfolio.com)*
 
@@ -60,5 +60,5 @@ Here are a few projects I'm proud of ✨:
   <img src="https://your-image-host.com/neon-divider.gif" width="50%" />
 </p>
 
-> 💬 *“Masters of none, But always Get it Done”*
+> 💬 *“Master of None, But always Get it Done”*
 
