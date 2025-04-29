@@ -42,6 +42,7 @@ Here are a few projects I'm proud of ✨:
 - 🧠 Self-development & learning new tech
 - 💻 Building smart systems for real-world problems
 - 💡 Development (Web, App, Software, Game)
+- 🌐 IoT and Embedded Software
 - 🤖 AI and Machine Learning
 - 🔬 Research
 - 🚀 Novel projects and startups
