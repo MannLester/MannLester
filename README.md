@@ -23,7 +23,7 @@ Here are a few projects I'm proud of ✨:
 - 🏠 **[StayEase](https://github.com/clarenzmauro/stayease)** – A dorm accommodation platform for students and dorm owners.
 
 
-> 🔎 *Check out more projects in my pinned repos or [visit my portfolio](https://yourportfolio.com)*
+> 🔎 *Check out more projects in my pinned repos or [visit my portfolio](https://portfolio-website-orcin-seven.vercel.app)*
 
 ---
 
