@@ -41,9 +41,10 @@ Here are a few projects I'm proud of ✨:
 
 - 🧠 Self-development & learning new tech
 - 💻 Building smart systems for real-world problems
-- 🌎 Environmentally sustainable tech
-- 🎮 Game development & creative design
-- 📈 Entrepreneurship, finance, and automation
+- 💡 Development (Web, App, Software, Game)
+- 🤖 AI and Machine Learning
+- 🔬 Research
+- 🚀 Novel projects and startups
 
 ---
 
