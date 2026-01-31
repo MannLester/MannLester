@@ -49,9 +49,9 @@ I am an enthusiastic **Junior Full Stack Developer** and **UX Engineer** recogni
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MannLester&show_icons=true&theme=tokyonight&count_private=true&v=brand_new" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MannLester&show_icons=true&theme=tokyonight&count_private=true&cache_buster=1" alt="GitHub Stats" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MannLester&layout=compact&theme=tokyonight&v=brand_new" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MannLester&layout=compact&theme=tokyonight&cache_buster=1" alt="Top Languages" />
 </p>
 
 ---
